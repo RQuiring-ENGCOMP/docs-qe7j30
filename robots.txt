@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-6rlrqz.jualtoto66gbp.cyou/sitemap.xml
